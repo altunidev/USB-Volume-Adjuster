@@ -27,9 +27,15 @@ The idea behind this device is to have an in-line hardware adapter that injects 
       - packet sending
     - practically lossless data passthrough
 
-End goal:
+### End goal:
 
-I'm designing this device to work as a drop-in passthrough volume control device that simply sends volume change requests through a USB "keyboard" to the operating system. This device is designed first for the Bigscreen Beyond headset such that it works with any USB-C audio solution such as the Beyond Audio Strap, FiiO KA1 DAC (and subsequently, any 3.5mm audio device connected to the other end), or even wireless solutions (as this will be interfacing with the operating system volume controls).
+I'm designing this device to work as a drop-in passthrough volume control device that simply sends volume change requests through a USB "keyboard" to the operating system. This device is designed first for the Bigscreen Beyond headset such that it works with any USB-C audio solution such as the Beyond Audio Strap, FiiO KA1 DAC (and subsequently, any 3.5mm audio device connected to the other end), Apple USB-C -> 3.5mm DAC (or third party variants, etc.), or even wireless solutions (as this will be interfacing with the operating system volume controls). While this is originally intended for the Bigscreen Beyond, I don't see why it shouldn't work on other devices either (i.e. phones, tablets, etc.), since it will use standardized keyboard inputs.
+
+## Side goals:
+
+- allow for additional user-configurable buttons
+  - perhaps through QMK? or VIA?
+  - while using the Bigscreen Beyond, can be useful in various cases where controllers are not necessary -- such as Flight or Driving Simulators
 
 ---
 
