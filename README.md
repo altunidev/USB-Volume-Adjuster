@@ -31,6 +31,9 @@ The idea behind this device is to have an in-line hardware adapter that injects 
 
 I'm designing this device to work as a drop-in passthrough volume control device that simply sends volume change requests through a USB "keyboard" to the operating system. This device is designed first for the Bigscreen Beyond headset such that it works with any USB-C audio solution such as the Beyond Audio Strap, FiiO KA1 DAC (and subsequently, any 3.5mm audio device connected to the other end), Apple USB-C -> 3.5mm DAC (or third party variants, etc.), or even wireless solutions (as this will be interfacing with the operating system volume controls). While this is originally intended for the Bigscreen Beyond, I don't see why it shouldn't work on other devices either (i.e. phones, tablets, etc.), since it will use standardized keyboard inputs.
 
+Very basic (not technical in any way) layout:
+<img width="977" alt="Screenshot 2024-02-09 at 12 36 12" src="https://github.com/altunidev/USB-Volume-Adjuster/assets/66493425/ebc5b4ef-8a19-49ae-951d-2891289d2c83">
+
 ## Side goals:
 
 - allow for additional user-configurable buttons
