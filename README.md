@@ -54,7 +54,10 @@ Very basic (not technical in any way) layout:
     - https://github.com/justcallmekoko/USBKeylogger
 - USB keystroke injector
   - https://github.com/AmirrezaNasiri/usb-keystroke-injector
+  - https://www.hackster.io/AmirrezaNasiri/usb-keystroke-injector-arduino-badusb-2767d0
 
 Other things to research:
 - https://en.wikipedia.org/wiki/BadUSB
 - https://github.com/0xADE1A1DE/USB-Injection
+- https://hackaday.io/project/183688-diy-usb-20-4-port-hub
+- https://www.amazon.com/One-Handed-Mechanical-Keyboard-Programming-Swappable/dp/B09PD2BWHL/
