@@ -44,8 +44,15 @@ Very basic (not technical in any way) layout:
 
 ## Starting points
 
+### useful
 - Mechanical keyboard firmware
   - [QMK](https://qmk.fm/) -- already has groundwork for basically every keystroke anyone would need and more
+    - [MCU documentation](https://docs.qmk.fm/#/platformdev_selecting_arm_mcu)
+- USB Hubs
+  - [A source of FE1.1 component](https://www.lcsc.com/product-detail/USB_FE1-1S_C9359.html)
+    - [FE1.1 datasheet](https://cdn-shop.adafruit.com/product-files/2991/FE1.1s%20Data%20Sheet%20(Rev.%201.0).pdf)
+
+### probably not as useful
 - USB passthrough keylogger hardware
   - USB Rubber Ducky
     - [Docs](https://docs.hak5.org/hak5-usb-rubber-ducky/ducky-script-basics/keystroke-injection#system-keys)
@@ -56,7 +63,7 @@ Very basic (not technical in any way) layout:
   - https://github.com/AmirrezaNasiri/usb-keystroke-injector
   - https://www.hackster.io/AmirrezaNasiri/usb-keystroke-injector-arduino-badusb-2767d0
 
-Other things to research:
+### Other things to research:
 - https://en.wikipedia.org/wiki/BadUSB
 - https://github.com/0xADE1A1DE/USB-Injection
 - https://hackaday.io/project/183688-diy-usb-20-4-port-hub
