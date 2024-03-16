@@ -51,8 +51,8 @@ Very basic (not technical in any way) layout:
     - [KB2040 keyboard guide](https://learn.adafruit.com/using-qmk-on-rp2040-microcontrollers/adafruit-kb2040-on-the-pb-gherkin-30-keyboard)
       - [RP2040 QMK specific docs](https://docs.qmk.fm/#/platformdev_rp2040)
 - USB Hubs
-  - [A source of FE1.1 component](https://www.lcsc.com/product-detail/USB_FE1-1S_C9359.html)
-    - [FE1.1 datasheet](https://cdn-shop.adafruit.com/product-files/2991/FE1.1s%20Data%20Sheet%20(Rev.%201.0).pdf)
+  - [A source of FE1.1s component](https://www.lcsc.com/product-detail/USB_FE1-1S_C9359.html)
+    - [FE1.1s datasheet](https://cdn-shop.adafruit.com/product-files/2991/FE1.1s%20Data%20Sheet%20(Rev.%201.0).pdf)
 
 ### probably not as useful
 - USB passthrough keylogger hardware
