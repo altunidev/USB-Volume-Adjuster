@@ -53,6 +53,7 @@ Very basic (not technical in any way) layout:
 - USB Hubs
   - [A source of FE1.1s component](https://www.lcsc.com/product-detail/USB_FE1-1S_C9359.html)
     - [FE1.1s datasheet](https://cdn-shop.adafruit.com/product-files/2991/FE1.1s%20Data%20Sheet%20(Rev.%201.0).pdf)
+  - [FE1.1 pinout and wiring diagram stuffs i guess](https://www.open-electronics.org/terminus-fe1-1-usb-hub-board-the-solution-to-connect-four-usb-devices/)
 
 ### probably not as useful
 - USB passthrough keylogger hardware
