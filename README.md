@@ -50,6 +50,10 @@ Very basic (not technical in any way) layout:
     - [MCU documentation](https://docs.qmk.fm/#/platformdev_selecting_arm_mcu)
     - [KB2040 keyboard guide](https://learn.adafruit.com/using-qmk-on-rp2040-microcontrollers/adafruit-kb2040-on-the-pb-gherkin-30-keyboard)
       - [RP2040 QMK specific docs](https://docs.qmk.fm/#/platformdev_rp2040)
+  - [XInput](https://github.com/dmadison/ArduinoXInput_AVR)
+    - SteamVR tends to only recognize XInput instead of keyboard input. This might be useful for a SteamVR button of some kind
+    - Reported behaviour: SteamVR only recognizes this form of input when a controller is powered on.
+      - Would it be possible to emulate a SteamVR controller with a driver of some sort? This way, bypassing the need to power on a SteamVR controller of any kind.
 - USB Hubs
   - [A source of FE1.1s component](https://www.lcsc.com/product-detail/USB_FE1-1S_C9359.html)
     - [FE1.1s datasheet](https://cdn-shop.adafruit.com/product-files/2991/FE1.1s%20Data%20Sheet%20(Rev.%201.0).pdf)
