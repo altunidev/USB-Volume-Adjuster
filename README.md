@@ -75,3 +75,4 @@ Very basic (not technical in any way) layout:
 - https://github.com/0xADE1A1DE/USB-Injection
 - https://hackaday.io/project/183688-diy-usb-20-4-port-hub
 - https://www.amazon.com/One-Handed-Mechanical-Keyboard-Programming-Swappable/dp/B09PD2BWHL/
+- https://github.com/terminal29/Simple-OpenVR-Driver-Tutorial/blob/master/driver_files/src/Driver/ControllerDevice.hpp
