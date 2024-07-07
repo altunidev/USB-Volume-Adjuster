@@ -54,6 +54,8 @@ Very basic (not technical in any way) layout:
     - SteamVR tends to only recognize XInput instead of keyboard input. This might be useful for a SteamVR button of some kind
     - Reported behaviour: SteamVR only recognizes this form of input when a controller is powered on.
       - Would it be possible to emulate a SteamVR controller with a driver of some sort? This way, bypassing the need to power on a SteamVR controller of any kind.
+    - https://github.com/terminal29/Simple-OpenVR-Driver-Tutorial/blob/master/driver_files/src/Driver/ControllerDevice.hpp
+    - https://www.instructables.com/Arduino-LeonardoMicro-as-Game-ControllerJoystick/
 - USB Hubs
   - [A source of FE1.1s component](https://www.lcsc.com/product-detail/USB_FE1-1S_C9359.html)
     - [FE1.1s datasheet](https://cdn-shop.adafruit.com/product-files/2991/FE1.1s%20Data%20Sheet%20(Rev.%201.0).pdf)
@@ -75,4 +77,3 @@ Very basic (not technical in any way) layout:
 - https://github.com/0xADE1A1DE/USB-Injection
 - https://hackaday.io/project/183688-diy-usb-20-4-port-hub
 - https://www.amazon.com/One-Handed-Mechanical-Keyboard-Programming-Swappable/dp/B09PD2BWHL/
-- https://github.com/terminal29/Simple-OpenVR-Driver-Tutorial/blob/master/driver_files/src/Driver/ControllerDevice.hpp
